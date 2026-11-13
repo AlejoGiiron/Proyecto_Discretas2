@@ -18,3 +18,10 @@ Para el grafo dirigido usé la misma representación, la **lista de adyacencia**
 
 - En el **dirigido** importa el orden, por eso solo se anota en la lista de `source`.
 - Si el nodo `target` todavía no tiene lista, le creo una **vacía**, para que el nodo exista en el grafo aunque no salgan aristas de él.
+
+## Punto 5
+Hice la función **read_graph** en **graphs.py**. Recibe la ruta de un archivo CSV y devuelve el grafo ya construido usando el separador ",".
+
+### Test
+En **data/** tenemos los ejemplos de csv y solo es correr el proyecto:
+    - uv run proyecto-discretas2
