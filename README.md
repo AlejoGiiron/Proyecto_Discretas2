@@ -1,5 +1,7 @@
 # Proyecto Matemáticas Discretas II
 
+# Alejandro Giron - 1924418
+
 Se estará usando uv para el manejo del ambiente.
 
 ## Punto 1
